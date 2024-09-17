@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Guilherme Belmiro</h1>
 <h3 align="center">🤔 Exploring new technologies 🎓 Studying Systems Analysis and Development. 💼 Working as a QA Engineer at Superlógica Imobiliárias. ❤️ Passionate about the QA field. 🌱 Learning more about Testing Techniques and Test Automation Tools.</h3>
