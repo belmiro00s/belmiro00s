@@ -1,19 +1,18 @@
 
 <h1 align="center">Hi 👋, I'm Guilherme Belmiro</h1>
-<h3 align="center">🤔 Exploring new technologies 🎓 Studying Systems Analysis and Development. 💼 Working as a QA Engineer at Superlógica Imobiliárias. ❤️ Passionate about the QA field. 🌱 Learning more about Testing Techniques and Test Automation Tools.</h3>
+<h3 align="center"> Exploring new technologies 🎓 Studying Systems Analysis and Development.  Working as a QA Automation Engineer at Superlógica Imobiliárias. Passionate about the QA field.  Learning more about Testing Techniques and Test Automation Tools.</h3>
 
 - 🔭 I’m currently working on **Superlógica Imobiliárias.**
 
-- 🌱 I’m currently learning **Delving deeper into the Cypress tool and software testing techniques.**
+- 🌱 I’m currently learning **Delving deeper into the Cypress and Selenium tool and software testing techniques.**
+ 
 
-I have 3 years of experience in software quality, having worked with various products, including CRM, ERP, and Mobile Apps. My focus has always been on delivering robust and efficient solutions throughout the development cycle. 
-
-Throughout my career, I have collaborated in an agile way with development teams to identify and correct faults, ensuring software integrity and end-user satisfaction. I excel at leading test automation initiatives, utilizing tools such as Cypress and JavaScript, which has resulted in a significant reduction in testing time and increased operational efficiency.
+Throughout my career, I have collaborated in an agile way with development teams to identify and correct faults, ensuring software integrity and end-user satisfaction. I excel at leading test automation initiatives, utilizing tools such as Cypress/JavaScript and Selinum WebDriver/Java, which has resulted in a significant reduction in testing time and increased operational efficiency.
 
 I also have experience in CI/CD practices, promoting continuous quality at all stages of development.
 
 ### Main Skills:
-- Automated testing (Cypress, JavaScript)
+- Automated testing (Cypress, JavaScript, Selenium, Java)
 - SQL database
 - CI/CD
 - Documentation and analysis of test requirements
